@@ -1,0 +1,5 @@
+dataset/**
+tmp/**
+model
+test.csv
+train.csv
